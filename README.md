@@ -18,7 +18,7 @@
 
 
 <p>Below is a Figma design for the Layout</p> 
-<img src="https://github.com/100jared/felixdesign.github.io/blob/master/img/view.png" width ="300" height="300">
+<img src="https://github.com/100jared/felixdesign.github.io/blob/master/img/view.png" width ="400" height="300">
 
 ## Preview Device
 
