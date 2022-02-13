@@ -16,6 +16,10 @@
 ---
 <p>This is a plartform where you book for your drawings on the choice of your preferred date This company comprises of young talented graphic and technical designers. different designs are carried out ranging from house plans, image drawings, photoshopping and others.</p>
 
+
+<p>Below is a Figma design for the Layout</p> 
+<img src="https://github.com/100jared/felixdesign.github.io/blob/master/img/view.png" width ="300" height="300">
+
 ## Preview Device
 
 ---
@@ -23,7 +27,7 @@
 * View it with a computer,phone,tablet or an Ipad
 
 * Get connected to an internet.
-* [Live link]()
+* [Live link](https://100jared.github.io/felixdesign.github.io/)
 
 [Back to the top](#Design)
 
