@@ -97,4 +97,7 @@
       width: 100%;
       height: auto;
     }
+    aside{
+      display: none;
+    }
   }
